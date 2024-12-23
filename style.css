@@ -1,0 +1,103 @@
+
+
+body{
+  background-image:url("k4-scaled.jpg"); 
+
+ 
+}
+body:hover{
+  background-image:url("FOR.jpg");
+}
+
+h1{color:#c77077;
+background-color:#e2e6ec;
+box-shadow:10px 10px 30px 10px rgb(223, 172, 184) inset;
+text-align: center;
+border-radius: 70px;
+ border:#992e49 outset 30px;
+ border-style:groove;
+
+  padding:10px;
+  font-family: "Eagle Lake", serif;
+}
+h1:hover{
+  border: #a77ce0 groove 30px;
+  background-image:url("FOR.jpg");
+  color:aqua
+}
+
+img{
+  clip-path:circle(50% at 50%50%);
+ 
+
+}
+
+.my-date{
+  text-align: center;
+    background-color:#e2e6ec;
+    color:#c77077;
+    box-shadow:10px 10px 30px 30px rgb(223, 172, 184) inset;
+  border:#8f3636 outset 30px;
+  border-bottom-style:hidden;
+  border-top-right-radius:70px; 
+  border-top-left-radius:70px; 
+  margin:-10px;
+  padding:10px;
+  font-family: "Rubik Dirt", system-ui;
+  
+}
+.my-date:hover{
+  background-image:url("FOR.jpg");
+  border: #a77ce0 groove 30px;
+  color:aqua
+}
+
+
+.mydate-two{text-align: center;
+  background-color:#e2e6ec;
+  color:#c77077;
+  box-shadow:10px 10px 30px 30px rgb(223, 172, 184) inset;
+  border:#8f3636 outset 30px;
+  border-bottom-style:hidden;
+  border-top-style:hidden;
+  margin:-10px;
+  padding:10px;
+  font-family: "Rubik Moonrocks", sans-serif;
+}
+.mydate-two:hover{
+  background-image:url("FOR.jpg");
+  border: #a77ce0 groove 30px;
+  color:aqua
+}
+.mydate-three{ 
+  text-align: center;
+  background-color:#e2e6ec;
+  color:#c77077;
+  box-shadow:10px 10px 30px 30px rgb(223, 172, 184) inset; 
+  border:#8f3636 outset 30px;
+  border-top-style:hidden; 
+  border-bottom-right-radius:70px; 
+  border-bottom-left-radius:70px; 
+  margin:-10px;
+  padding:10px;
+  font-family: "Rubik Moonrocks", sans-serif;
+}
+.mydate-three:hover{
+  background-image:url("FOR.jpg");
+  border: #a77ce0 groove 30px;
+  color:aqua
+}
+
+  
+
+span{
+  display:block;
+  text-align: center;
+  color:#c77077;
+  font-family: "Rubik Moonrocks", sans-serif;}
+
+
+a:visited {
+ color: rgb(19, 230, 89);
+}
+ 
